@@ -22,6 +22,9 @@
   </p>
   
   <h1>Tech Stack</h1>
-
+  
   <h3>My Tech Stack over the years as a tree</h3>
+
+  <img src="https://github.com/gustapinto/gustapinto/blob/main/images/dark-mode.png#gh-dark-mode-only" width="50%">
+  <img src="https://github.com/gustapinto/gustapinto/blob/main/images/light-mode.png#gh-light-mode-only" width="50%">
 </div>
