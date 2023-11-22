@@ -4,7 +4,7 @@
     <img height="164em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustapinto&langs_count=8&theme=gruvbox&layout=compact"></img>
   </a>
 
-  <hr />
+  <h1></h1>
   
   <p align="center" width="65%">
     <img src="https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
@@ -20,4 +20,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   </p>
+  
+  <h1>Tech Stack</h1>
+
+  <h3>My Tech Stack over the years as a tree</h3>
 </div>
